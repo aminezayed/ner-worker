@@ -1,0 +1,16 @@
+Flask==1.1.1
+flask-restplus==0.13.0
+Flask-RESTful==0.3.6
+boto3
+PyYAML==5.2
+s3transfer==0.2.1
+Unidecode==1.1.1
+urllib3
+Werkzeug==0.16.1
+rollbar
+jsonschema==3.0.0
+more-itertools==8.0.2
+pytest
+pytest-cov
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-2.1.0/fr_core_news_md-2.1.0.tar.gz#egg=fr_core_news_md
+git+ssh://git@bitbucket.org/projetlmp/text_toolkit.git@master#egg=text_toolkit
